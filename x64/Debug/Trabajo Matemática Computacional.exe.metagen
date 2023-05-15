@@ -1,0 +1,29 @@
+  TrabajoMatemáticaComputacional.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Trabajo Matemática Computacional, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TrabajoMatemáticaComputacional.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    es_primo(Int32): PrivateScope, Public, HideBySig
+    mcd(Int32, Int32): PrivateScope, Public, HideBySig
+    encontrarE(Int32): PrivateScope, Public, HideBySig
+    encontrarD(Int32, Int32): PrivateScope, Public, HideBySig
+    encriptarRSA(vector<int\,std::allocator<int> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Int32, Int32): PrivateScope, Public, HideBySig
+    imprimirMensajeEncriptado(vector<int\,std::allocator<int> >*): PrivateScope, Public, HideBySig
+    desencriptarRSA(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, vector<int\,std::allocator<int> >*, Int32, Int32): PrivateScope, Public, HideBySig
+    imprimirMensajeDesencriptado(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    strToVector(vector<int\,std::allocator<int> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig

@@ -1,0 +1,4 @@
+C:\Users\RICARDO\Desktop\Plantillas Progra 2\Trabajo Matemática Computacional\Trabajo Matemática Computacional\x64\Debug\Trabajo Matemática Computacional.vcxproj.AssemblyReference.cache
+C:\Users\RICARDO\Desktop\Plantillas Progra 2\Trabajo Matemática Computacional\Trabajo Matemática Computacional\x64\Debug\Trabajo Matemática Computacional.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\RICARDO\Desktop\Plantillas Progra 2\Trabajo Matemática Computacional\Trabajo Matemática Computacional\x64\Debug\TrabajoMatemáticaComputacional.MyForm.resources
+C:\Users\RICARDO\Desktop\Plantillas Progra 2\Trabajo Matemática Computacional\Trabajo Matemática Computacional\x64\Debug\Trabajo Matemática Computacional.vcxproj.GenerateResource.cache
